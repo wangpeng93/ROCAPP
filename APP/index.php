@@ -19,6 +19,7 @@ class APP extends AnotherClass
 
 	public function add()
 	{
+		//注释
 		echo "APP/add";
 
 	}
