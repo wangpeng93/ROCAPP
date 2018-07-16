@@ -1,8 +1,21 @@
 <?php
 
 
-echo 'app/index';
+/**
+* 测试方案
+*/
+class APP extends AnotherClass
+{
+	
+	public function __construct(argument)
+	{
+		
+	}
 
-echo '修复bug2';
-echo 'add2';
+	public function index()
+	{
+		echo "APP/index";
+	}
+
+}
 
