@@ -17,5 +17,11 @@ class APP extends AnotherClass
 		echo "APP/index";
 	}
 
+	public function add()
+	{
+		echo "APP/add";
+
+	}
+
 }
 
